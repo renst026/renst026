@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Currently attending the University of Minnesota Duluth
+- Major: Computer Science (B.S.)
+- Minor: Mathematics
 <!--
 **renst026/renst026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
